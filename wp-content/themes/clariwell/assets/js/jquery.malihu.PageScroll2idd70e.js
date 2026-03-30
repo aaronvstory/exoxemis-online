@@ -772,3 +772,5 @@ THE SOFTWARE.
 	$[pluginNS].defaults=defaults;
 	
 })(jQuery,window,document);
+
+

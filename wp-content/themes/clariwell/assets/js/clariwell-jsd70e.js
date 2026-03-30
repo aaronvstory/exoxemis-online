@@ -552,3 +552,5 @@ jQuery(window).load(function() {
 		if (px) jQuery(this).addClass("ins-animate");
 	});
 });
+
+

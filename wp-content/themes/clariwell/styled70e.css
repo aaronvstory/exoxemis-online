@@ -664,34 +664,13 @@ span.page-links-title {
 
 /*body text*/
 
-@font-face {
-   font-family: 'fontawesome';
-   src: url('assets/fonts/fontawesome.html');
-   src: url('assets/fonts/fontawesomed41d.html?#iefix') format('embedded-opentype'), url('assets/fonts/fontawesome-2.html#fontawesome') format('svg'), url('assets/fonts/fontawesome-3.html') format('woff'), url('assets/fonts/fontawesome-4.html') format('truetype');
-   font-weight: normal;
-   font-style: normal;
-}
+/* Font face disabled for CDN */
 
-@font-face {
-   font-family: 'themify';
-   src: url('assets/fonts/themify.html');
-   src: url('assets/fonts/themifyd41d.html?#iefix') format('embedded-opentype'),
-        url('assets/fonts/themify-2.html') format('woff'), 
-        url('assets/fonts/themify-3.html') format('truetype'), 
-        url('assets/fonts/themify-4.html') format('svg');
-   font-weight: normal;
-   font-style: normal;
-}
+/* Font face disabled for CDN */
 
-@font-face {
-   font-family: Saira;
-   src: url('assets/fonts/Saira-Regular.html');
-}
+/* Font face disabled for CDN */
 
-@font-face {
-   font-family: Ubuntu;
-   src: url('assets/fonts/Ubuntu-Regular.html');
-}
+/* Font face disabled for CDN */
 
 
 /*page loader*/
@@ -5330,3 +5309,5 @@ span.vc_pie_chart_value {
 .cookie-notice-container {
    padding: 15px 0 10px;
 }
+
+
