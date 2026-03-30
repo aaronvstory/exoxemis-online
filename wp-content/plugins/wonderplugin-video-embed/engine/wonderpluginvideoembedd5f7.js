@@ -43,3 +43,4 @@ $videoBtnPause.hide()}};var onVideoUpdate=function(){var curTime=$videoObj.get(0
 function(id){$(window).trigger("wonderpluginvideo.ended",[id])}}})(jQuery);
 
 
+
